@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://ahlemtoubrinet.io)
 <h1 align="center">Hi 👋, I'm Ahlem</h1>
-<h3 align="center">A Junior AI Engineer from Algeria</h3>
+<h3 align="center">Future AI Engineer, Web Development Enthusiast and a Student at The National Higher School of Artificial Intelligence (ENSIA) in Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 - 🔭 I’m currently working on **Website Project**

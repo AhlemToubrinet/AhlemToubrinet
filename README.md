@@ -3,7 +3,7 @@
 <h3 align="center">Future AI Engineer, Web Development Enthusiast and a Student at The National Higher School of Artificial Intelligence (ENSIA) in Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 🔭 I’m currently working on **Website Project**
+
 
 - 🌱 I’m currently learning **Programming, Web Development, Design**
 

@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Programming, Web Development, Mobile Development, Design**
+- 🌱 I’m currently learning **Programming, Web Development, Mobile Development, UI/UX Design**
 
 - 📫 How to reach me **ahlem.toubrinet@ensia.edu.dz**
 
